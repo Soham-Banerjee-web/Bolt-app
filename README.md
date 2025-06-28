@@ -65,13 +65,13 @@ This project was built for the **World’s Largest Hackathon – Bolt.dev**. It 
 
 ### 📹 Demo
 
-[Watch the demo on YouTube][(https://your-youtube-link)](https://youtu.be/PVqTYAQRa14?si=PRuBCXwJuUJxSWwS)
+[Watch the demo on YouTube](https://youtu.be/PVqTYAQRa14?si=PRuBCXwJuUJxSWwS)
 
 ---
 
 ### 👏 Contributors
 
-* [Soham Banerjee](https://github.com/yourusername) – Full Stack Developer, AI Engineer
+* [Soham Banerjee][(https://github.com/Soham-Banerjee-web)] – Full Stack Developer, AI Engineer
 
 
 
