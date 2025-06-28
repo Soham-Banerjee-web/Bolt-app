@@ -35,7 +35,7 @@ Here’s a clean, professional **README description** for your Bolt app, tailore
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Soham-Banerjee-web/mindwell.git
+   git clone https://github.com/Soham-Banerjee-web/Bolt-app.git
    cd mindwell
    ```
 2. Install dependencies:
